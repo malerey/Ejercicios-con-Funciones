@@ -25,8 +25,8 @@ restar(3, 5) // -2
 Crear una función `multiplicar` que tome como argumentos dos números y devuelva la multiplicación de ellos
 
 ```javascript
-sumar(2, 3) // 6
-sumar(4, 0.5) // 2
+multiplicar(2, 3) // 6
+multiplicar(4, 0.5) // 2
 ```
 
 ### 4. `dividir(a, b)`
@@ -34,9 +34,9 @@ sumar(4, 0.5) // 2
 Crear una función `dividir` que tome como argumentos dos números y devuelva la división de ellos
 
 ```javascript
-sumar(2, 3) // 5
-sumar(1.2, 3.4) // 4.6
-sumar(3, -5) // -2
+dividir(2, 3) // 0.666666666666
+dividir(1.2, 3.4) // 0.35294117647058826
+dividir(3, -5) // -0.6
 ```
 
 
