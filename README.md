@@ -31,7 +31,7 @@ sumar(4, 0.5) // 2
 
 ### 4. `dividir(a, b)`
 
-Crear una función `dividir` que tome como argumentos dos números y devuelva la suma de ellos
+Crear una función `dividir` que tome como argumentos dos números y devuelva la división de ellos
 
 ```javascript
 sumar(2, 3) // 5
@@ -46,7 +46,7 @@ Crear una función `calcularAreaTriangulo` que tome como argumentos la base y la
 
 ```javascript
 calcularAreaTriangulo(3, 4) // 6
-calcularAreaTriangulo(5, 6) // 40
+calcularAreaTriangulo(5, 6) // 15
 ```
 
 ### 6. `gritar(str)` 
